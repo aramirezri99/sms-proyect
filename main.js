@@ -23,4 +23,6 @@ document.querySelector('#app').innerHTML = `
 `
 
 //setupCounter(document.querySelector('#counter'))
+
+//aqui es mi funcion que da error
 enviar_sms()
